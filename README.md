@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Prazer! 👋 Pode me chamar de Lia, sou uma desenvolvedora Front-end!</p>
+<p align="left">Prazer! Pode me chamar de Lia, sou uma futura desenvolvedora Front-end!</p>
 
 ###
 
