@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">Apaixonada por inovação e tecnologia!</h2>
-
-###
-
 <h2 align="left">Linguagens e ferramentas</h2>
 
 ###
